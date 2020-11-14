@@ -8,7 +8,7 @@ export default function Home() {
     <Layout home>
       <Header/>
       <section className={utilStyles.headingMd}>
-        <p>A Brazilian working and living in Estonia</p>
+        <p>A Brazilian working and living in Estonia! </p>
         <p>
           This is a sample website - created using <Link href="https://nextjs.org/learn">Next JS </Link>
           and deployed on <Link href="https://vercel.com/docs">Vercel</Link>: <Link href="https://learning-next-js-blue.vercel.app/">learning-next-js-blue.vercel.app</Link>
