@@ -1,7 +1,6 @@
 # learning-next-js
 
-Create a Next.js app ((nextjs.org) integrated with vercel (vercel.com)
-
+Create a Next.js app ((nextjs.org) integrated with vercel (vercel.com) using yarn.
 - Initializing the project
 ```
 yarn init 
